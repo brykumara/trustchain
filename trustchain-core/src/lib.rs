@@ -11,6 +11,7 @@ pub mod resolver;
 pub mod subject;
 pub mod utils;
 pub mod verifier;
+pub mod redactablesignature;
 
 // WASM
 use wasm_bindgen::prelude::*;
